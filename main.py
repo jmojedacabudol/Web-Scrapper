@@ -38,6 +38,9 @@ print(article_links[highest_upvote])
 
 
 
+
+# -------------LOCAL FILE SCRAPPING ----------------
+
 # with open("website.html", "r") as data_file:
 #     contents = data_file.read()
 #
